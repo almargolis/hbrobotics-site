@@ -1,0 +1,14 @@
+<header>
+    <div class="container">
+        <div class="site-header">
+            <a href="{{ "/" | absURL }}" class="site-title">{{ .Site.Title }}</a>
+            <nav>
+                <ul>
+                    {{ range .Site.Menus.main }}
+                    <li><a href="{{ .URL }}">{{ .Name }}</a></li>
+                    {{ end }}
+                </ul>
+            </nav>
+        </div>
+    </div>
+</header>

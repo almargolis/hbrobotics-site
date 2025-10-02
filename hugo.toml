@@ -1,0 +1,61 @@
+baseURL = 'https://hbrobotics.org/'
+languageCode = 'en-us'
+title = 'HomeBrew Robotics Club'
+theme = 'hbrobotics'
+
+[markup.goldmark.renderer]
+  unsafe = true
+
+[params]
+  description = 'HomeBrew Robotics Club - Silicon Valley robotics enthusiasts'
+  facebook = 'https://www.facebook.com/groups/HBRC.org/'
+  youtube = 'https://www.youtube.com/@homebrewroboticsclub'
+  googlegroups = 'https://groups.google.com/group/hbrobotics'
+  swag = 'https://www.cafepress.com/hbrobotics'
+
+[menu]
+  [[menu.main]]
+    name = 'Home'
+    url = '/'
+    weight = 1
+  [[menu.main]]
+    name = 'About'
+    url = '/about/'
+    weight = 2
+  [[menu.main]]
+    name = 'Get Involved'
+    url = '/get-involved/'
+    weight = 3
+  [[menu.main]]
+    name = 'Challenges'
+    url = '/challenges/'
+    weight = 4
+  [[menu.main]]
+    name = "Builders' Page"
+    url = '/builders-page/'
+    weight = 5
+  [[menu.main]]
+    name = 'Resources'
+    url = '/resources/'
+    weight = 6
+
+  [[menu.footer]]
+    name = 'HBRC Home Page'
+    url = '/'
+    weight = 1
+  [[menu.footer]]
+    name = 'About'
+    url = '/about/'
+    weight = 2
+  [[menu.footer]]
+    name = 'Contact Us'
+    url = '/contact/'
+    weight = 3
+  [[menu.footer]]
+    name = 'Membership and Dues'
+    url = '/membership/'
+    weight = 4
+  [[menu.footer]]
+    name = 'Privacy Policy'
+    url = '/privacy/'
+    weight = 5

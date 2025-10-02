@@ -1,0 +1,4 @@
+name = "HBRobotics"
+license = "MIT"
+description = "Custom theme for HomeBrew Robotics Club"
+min_version = "0.110.0"

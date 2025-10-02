@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>HomeBrew Robotics Club</title>
+    <link>https://hbrobotics.org/</link>
+    <description>Recent content on HomeBrew Robotics Club</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="https://hbrobotics.org/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About</title>
+      <link>https://hbrobotics.org/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://hbrobotics.org/about/</guid>
+      <description>&lt;h1 id=&#34;about-the-homebrew-robotics-club&#34;&gt;About the HomeBrew Robotics Club&lt;/h1&gt;&#xA;&lt;p&gt;The HomeBrew Robotics Club was resurrected from the original HomeBrew Computer Club by robotics enthusiasts. We are an open community that welcomes members with varying levels of expertise, from beginners to professionals.&lt;/p&gt;&#xA;&lt;h2 id=&#34;who-we-are&#34;&gt;Who We Are&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;An official California unincorporated association&lt;/li&gt;&#xA;&lt;li&gt;A volunteer-run organization&lt;/li&gt;&#xA;&lt;li&gt;Open to all ages - no age restrictions for membership&lt;/li&gt;&#xA;&lt;li&gt;Welcoming to all skill levels in robotics&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;how-we-operate&#34;&gt;How We Operate&lt;/h2&gt;&#xA;&lt;p&gt;The club operates with minimal rules and a simple structure:&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Builders&#39; Page</title>
+      <link>https://hbrobotics.org/builders-page/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://hbrobotics.org/builders-page/</guid>
+      <description>&lt;h1 id=&#34;robot-builders-page&#34;&gt;Robot Builders&amp;rsquo; Page&lt;/h1&gt;&#xA;&lt;p&gt;The Builders&amp;rsquo; Page showcases active members of the HomeBrew Robotics Club. Our members come from diverse backgrounds and bring unique expertise to our community.&lt;/p&gt;&#xA;&lt;h2 id=&#34;featured-builders&#34;&gt;Featured Builders&lt;/h2&gt;&#xA;&lt;h3 id=&#34;camp-peavy-club-president&#34;&gt;Camp Peavy (Club President)&lt;/h3&gt;&#xA;&lt;p&gt;&amp;ldquo;I&amp;rsquo;ve been building homebrewed robots for almost 40 years. I am currently writing a book which will be entitled &amp;lsquo;Homebrewed Robots!&amp;rsquo;&amp;rdquo;&lt;/p&gt;&#xA;&lt;h3 id=&#34;mark-johnston-website-co-admin&#34;&gt;Mark Johnston (Website Co-Admin)&lt;/h3&gt;&#xA;&lt;p&gt;Hardware and Software Consultant&lt;/p&gt;&#xA;&lt;h3 id=&#34;sergei-grichine&#34;&gt;Sergei Grichine&lt;/h3&gt;&#xA;&lt;p&gt;Retired software developer and robotics hobbyist&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Challenges</title>
+      <link>https://hbrobotics.org/challenges/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://hbrobotics.org/challenges/</guid>
+      <description>&lt;h1 id=&#34;hbrc-challenges&#34;&gt;HBRC Challenges&lt;/h1&gt;&#xA;&lt;p&gt;&lt;strong&gt;The challenges are meant to encourage members to BUILD ROBOTS!&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;HBRC&amp;rsquo;s prime goal is to inspire makers to build and demonstrate robots. Challenges occur at our March, June, and September meetings.&lt;/p&gt;&#xA;&lt;h2 id=&#34;challenge-rules&#34;&gt;Challenge Rules&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Robots must be &lt;strong&gt;autonomous&lt;/strong&gt; to qualify for certificates&lt;/li&gt;&#xA;&lt;li&gt;Challenges have three progressive phases&lt;/li&gt;&#xA;&lt;li&gt;Demonstrate your robot&amp;rsquo;s capabilities at challenge meetings&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;current-challenges&#34;&gt;Current Challenges&lt;/h2&gt;&#xA;&lt;h3 id=&#34;tablebot-challenge&#34;&gt;TABLEBot Challenge&lt;/h3&gt;&#xA;&lt;p&gt;&lt;strong&gt;Operates on a table&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;Phase I:&lt;/strong&gt; Travel from one end of the table to the other&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Phase II:&lt;/strong&gt; Find and push a block off the table&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Phase III:&lt;/strong&gt; Push a block into a shoebox&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;floorbot-challenge&#34;&gt;FloorBot Challenge&lt;/h3&gt;&#xA;&lt;p&gt;&lt;strong&gt;Large room-scale robot&lt;/strong&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Contact Us</title>
+      <link>https://hbrobotics.org/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://hbrobotics.org/contact/</guid>
+      <description>&lt;h1 id=&#34;contact-us&#34;&gt;Contact Us&lt;/h1&gt;&#xA;&lt;p&gt;The HomeBrew Robotics Club is a volunteer-based group of robot enthusiasts located in Silicon Valley, California.&lt;/p&gt;&#xA;&lt;h2 id=&#34;get-in-touch&#34;&gt;Get in Touch&lt;/h2&gt;&#xA;&lt;h3 id=&#34;post-to-our-mailing-list&#34;&gt;Post to Our Mailing List&lt;/h3&gt;&#xA;&lt;p&gt;For general questions and discussions, we recommend posting to our Google Groups mailing list:&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;&lt;a href=&#34;https://groups.google.com/g/hbrobotics&#34;&gt;https://groups.google.com/g/hbrobotics&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;h3 id=&#34;contact-club-officers&#34;&gt;Contact Club Officers&lt;/h3&gt;&#xA;&lt;p&gt;For specific inquiries, you can contact club officers directly via email. Contact information is available on our &lt;a href=&#34;https://www.hbrobotics.org/index.php/club-officers/&#34;&gt;Club Officers page&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;h2 id=&#34;about-our-organization&#34;&gt;About Our Organization&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;Minimal organizational structure&lt;/strong&gt; - we keep things simple&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;All volunteer work&lt;/strong&gt; - everyone contributes their time and expertise&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Open to all&lt;/strong&gt; - robotics enthusiasts of all skill levels welcome&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Located in Silicon Valley, California&lt;/strong&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;We focus on collaborative robotics exploration and hands-on learning. Join our community today!&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Get Involved</title>
+      <link>https://hbrobotics.org/get-involved/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://hbrobotics.org/get-involved/</guid>
+      <description>&lt;h1 id=&#34;get-involved-with-hbrc&#34;&gt;Get Involved with HBRC&lt;/h1&gt;&#xA;&lt;h2 id=&#34;ask-or-answer-a-question&#34;&gt;Ask or Answer A Question&lt;/h2&gt;&#xA;&lt;p&gt;Join our active community on Google Groups! We use this forum for club discussions, questions, and answers.&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;Group Link:&lt;/strong&gt; &lt;a href=&#34;https://groups.google.com/group/hbrobotics&#34;&gt;https://groups.google.com/group/hbrobotics&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;Open to anyone with a Google account&lt;/li&gt;&#xA;&lt;li&gt;Share knowledge and get help with your robotics projects&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;attend-a-meeting&#34;&gt;Attend A Meeting&lt;/h2&gt;&#xA;&lt;p&gt;We hold three types of monthly meetings via Zoom:&lt;/p&gt;&#xA;&lt;h3 id=&#34;general-meeting&#34;&gt;General Meeting&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;When:&lt;/strong&gt; Last Wednesday of the month (January through October)&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Format:&lt;/strong&gt; Hybrid (in-person and Zoom)&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;What:&lt;/strong&gt; Featured presentations, industry news, project sharing&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;sig-meeting&#34;&gt;SIG Meeting&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;When:&lt;/strong&gt; Penultimate (second-to-last) Wednesday of the month&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;What:&lt;/strong&gt; Special Interest Group discussions on specific topics&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;business-meeting&#34;&gt;Business Meeting&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;When:&lt;/strong&gt; First Wednesday of the month&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;What:&lt;/strong&gt; Club operations, planning, and member voting&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;build-a-robot&#34;&gt;Build A Robot&lt;/h2&gt;&#xA;&lt;p&gt;&lt;strong&gt;HBRC is all about encouraging people to build robots.&lt;/strong&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Membership and Dues</title>
+      <link>https://hbrobotics.org/membership/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://hbrobotics.org/membership/</guid>
+      <description>&lt;h1 id=&#34;membership-and-dues&#34;&gt;Membership and Dues&lt;/h1&gt;&#xA;&lt;h2 id=&#34;membership-details&#34;&gt;Membership Details&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;Annual Dues:&lt;/strong&gt; $10 per calendar year for an individual or family&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Due Date:&lt;/strong&gt; First meeting of the year&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Important:&lt;/strong&gt; Members who don&amp;rsquo;t pay by the March meeting lose their membership status&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;membership-benefits&#34;&gt;Membership Benefits&lt;/h2&gt;&#xA;&lt;p&gt;As a paid member, you receive:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Official club name badge&lt;/li&gt;&#xA;&lt;li&gt;Voting rights in club elections&lt;/li&gt;&#xA;&lt;li&gt;Access to club property (e.g., loaner robots)&lt;/li&gt;&#xA;&lt;li&gt;Eligibility for member-only drawings and giveaways&lt;/li&gt;&#xA;&lt;li&gt;Ability to represent the club at public events&lt;/li&gt;&#xA;&lt;li&gt;Listing on the &lt;a href=&#34;https://hbrobotics.org/builders-page/&#34;&gt;Robot Builders Page&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;payment-options&#34;&gt;Payment Options&lt;/h2&gt;&#xA;&lt;h3 id=&#34;1-paypal&#34;&gt;1. PayPal&lt;/h3&gt;&#xA;&lt;p&gt;Send payment to: &lt;strong&gt;&lt;a href=&#34;mailto:treasurer@hbrobotics.org&#34;&gt;treasurer@hbrobotics.org&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Privacy Policy</title>
+      <link>https://hbrobotics.org/privacy/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://hbrobotics.org/privacy/</guid>
+      <description>&lt;h1 id=&#34;privacy-policy&#34;&gt;Privacy Policy&lt;/h1&gt;&#xA;&lt;h2 id=&#34;our-approach-to-privacy&#34;&gt;Our Approach to Privacy&lt;/h2&gt;&#xA;&lt;p&gt;The HomeBrew Robotics Club values your privacy and takes a minimal approach to data collection.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;We do as little data collection as possible.&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;h2 id=&#34;key-privacy-principles&#34;&gt;Key Privacy Principles&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;No data selling&lt;/strong&gt; - We have no interest in selling your information&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;No tracking&lt;/strong&gt; - We avoid third-party analytics and social media trackers&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Limited collection&lt;/strong&gt; - Personal information is used only for club activities&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Transparency&lt;/strong&gt; - We&amp;rsquo;re open about what we collect and why&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;photo-and-media-usage&#34;&gt;Photo and Media Usage&lt;/h2&gt;&#xA;&lt;p&gt;Photos from online and in-person events may be used in club media, including:&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Resources</title>
+      <link>https://hbrobotics.org/resources/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://hbrobotics.org/resources/</guid>
+      <description>&lt;h1 id=&#34;resources&#34;&gt;Resources&lt;/h1&gt;&#xA;&lt;p&gt;Resources for robotics builders - from clubs to parts vendors. These listings are based on experiences shared by HBRC members.&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;&lt;strong&gt;Note:&lt;/strong&gt; Listings on this page are at the discretion of the website editor and club officers.&lt;/p&gt;&lt;/blockquote&gt;&#xA;&lt;h2 id=&#34;robotics-clubs-and-professional-societies&#34;&gt;Robotics Clubs and Professional Societies&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;Sacrobotics&lt;/strong&gt; - Sacramento area robotics club&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;IEEE Robotics and Automation&lt;/strong&gt; - Professional society&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Seattle Robotics Society&lt;/strong&gt; - Pacific Northwest robotics community&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Robotics Society of Southern California&lt;/strong&gt; - Southern California robotics group&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Dallas Personal Robotics Group&lt;/strong&gt; - Texas robotics enthusiasts&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;online-parts-vendors&#34;&gt;Online Parts Vendors&lt;/h2&gt;&#xA;&lt;p&gt;These are vendors with whom club members have had good experiences:&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
