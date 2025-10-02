@@ -9,11 +9,12 @@ email: contact@hbrobotics.org
 
 # Build settings
 markdown: kramdown
-theme: minima
+remote_theme: jekyll/minima
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
-
+  - jekyll-remote-theme
+  
 # Navigation
 header_pages:
   - index.md
