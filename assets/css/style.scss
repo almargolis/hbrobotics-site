@@ -1,0 +1,29 @@
+---
+---
+
+@import "minima";
+
+.meeting-link {
+  display: inline-block;
+  background-color: #0066cc;
+  color: white !important;
+  padding: 10px 20px;
+  border-radius: 5px;
+  text-decoration: none;
+  font-weight: bold;
+  margin: 10px 0;
+  
+  &:hover {
+    background-color: #0052a3;
+  }
+}
+
+.home h2 {
+  margin-top: 40px;
+  color: #333;
+}
+
+.home h3 {
+  margin-top: 30px;
+  color: #0066cc;
+}
